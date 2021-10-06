@@ -1,8 +1,10 @@
 public class Test {
     public static void main(String[] args) {
-        int a = 1; //main
-        int b = 2;
-        int c = 3;
+        int a = 123342; //main
+        int b = 324322;
+        int c = 32332;
+
+
 
         //comment
 
