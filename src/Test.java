@@ -1,11 +1,12 @@
 public class Test {
     public static void main(String[] args) {
-        int a = 1; //main
+        int a = 2; //test1
         int b = 2;
-        int c = 3;
+        int c = 34;
+        int d = 4;
 
-        //comment
+        //comment 2
 
-        System.out.println(a + b + c - 2);
+        System.out.println(a + b + c - 1);
     }
 }
