@@ -1,1 +1,1 @@
-Hello, this is test project.
+Hello, this is not a test project, this is my pet project.
